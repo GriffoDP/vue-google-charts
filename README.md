@@ -1,3 +1,5 @@
+Update to work with Vue 3 hopefully
+
 # vue-google-charts
 
 [![npm](https://img.shields.io/npm/v/vue-google-charts.svg) ![npm](https://img.shields.io/npm/dm/vue-google-charts.svg)](https://www.npmjs.com/package/vue-google-charts)
